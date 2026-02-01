@@ -1,0 +1,33 @@
+running egg_info
+creating ../build/circle/circle.egg-info
+writing ../build/circle/circle.egg-info/PKG-INFO
+writing dependency_links to ../build/circle/circle.egg-info/dependency_links.txt
+writing requirements to ../build/circle/circle.egg-info/requires.txt
+writing top-level names to ../build/circle/circle.egg-info/top_level.txt
+writing manifest file '../build/circle/circle.egg-info/SOURCES.txt'
+reading manifest file '../build/circle/circle.egg-info/SOURCES.txt'
+writing manifest file '../build/circle/circle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build
+creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib
+creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle
+copying circle/circle_node.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle
+copying circle/__init__.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle
+running install
+running install_lib
+creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle
+copying /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle/circle_node.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle
+copying /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle/__init__.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle
+byte-compiling /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle/circle_node.py to circle_node.cpython-312.pyc
+byte-compiling /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index
+creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index/resource_index
+creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index/resource_index/packages
+copying resource/circle -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index/resource_index/packages
+copying package.xml -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/circle
+running install_egg_info
+Copying ../build/circle/circle.egg-info to /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/install.log'

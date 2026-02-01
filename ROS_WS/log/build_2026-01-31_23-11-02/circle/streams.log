@@ -1,0 +1,35 @@
+[1.096s] Invoking command in '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/circle': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\u@\h \[\e[32m\]\w \[\e[91m\]$(parse_git_branch)\[\e[00m\]$ PYTHONPATH=/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/circle build --build-base /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build install --record /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/install.log --single-version-externally-managed install_data
+[1.459s] running egg_info
+[1.460s] creating ../build/circle/circle.egg-info
+[1.479s] writing ../build/circle/circle.egg-info/PKG-INFO
+[1.479s] writing dependency_links to ../build/circle/circle.egg-info/dependency_links.txt
+[1.479s] writing requirements to ../build/circle/circle.egg-info/requires.txt
+[1.479s] writing top-level names to ../build/circle/circle.egg-info/top_level.txt
+[1.479s] writing manifest file '../build/circle/circle.egg-info/SOURCES.txt'
+[1.520s] reading manifest file '../build/circle/circle.egg-info/SOURCES.txt'
+[1.520s] writing manifest file '../build/circle/circle.egg-info/SOURCES.txt'
+[1.520s] running build
+[1.521s] running build_py
+[1.521s] creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build
+[1.521s] creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib
+[1.521s] creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle
+[1.521s] copying circle/circle_node.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle
+[1.521s] copying circle/__init__.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle
+[1.521s] running install
+[1.526s] running install_lib
+[1.546s] creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle
+[1.547s] copying /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle/circle_node.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle
+[1.547s] copying /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build/lib/circle/__init__.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle
+[1.548s] byte-compiling /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle/circle_node.py to circle_node.cpython-312.pyc
+[1.549s] byte-compiling /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle/__init__.py to __init__.cpython-312.pyc
+[1.549s] running install_data
+[1.549s] creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index
+[1.549s] creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index/resource_index
+[1.549s] creating /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index/resource_index/packages
+[1.549s] copying resource/circle -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/ament_index/resource_index/packages
+[1.549s] copying package.xml -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/share/circle
+[1.549s] running install_egg_info
+[1.570s] Copying ../build/circle/circle.egg-info to /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages/circle-0.0.0-py3.12.egg-info
+[1.571s] running install_scripts
+[1.723s] writing list of installed files to '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/install.log'
+[1.758s] Invoked command in '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/circle' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\u@\h \[\e[32m\]\w \[\e[91m\]$(parse_git_branch)\[\e[00m\]$ PYTHONPATH=/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/circle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/circle build --build-base /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/build install --record /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/circle/install.log --single-version-externally-managed install_data

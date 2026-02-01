@@ -1,0 +1,22 @@
+[1.535s] Invoking command in '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/sim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\u@\h \[\e[32m\]\w \[\e[91m\]$(parse_git_branch)\[\e[00m\]$ PYTHONPATH=/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/sim build --build-base /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/sim/build install --record /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/sim/install.log --single-version-externally-managed install_data
+[1.946s] running egg_info
+[1.966s] writing ../build/sim/sim.egg-info/PKG-INFO
+[1.966s] writing dependency_links to ../build/sim/sim.egg-info/dependency_links.txt
+[1.966s] writing entry points to ../build/sim/sim.egg-info/entry_points.txt
+[1.967s] writing requirements to ../build/sim/sim.egg-info/requires.txt
+[1.967s] writing top-level names to ../build/sim/sim.egg-info/top_level.txt
+[2.010s] reading manifest file '../build/sim/sim.egg-info/SOURCES.txt'
+[2.010s] adding license file 'LICENSE'
+[2.010s] writing manifest file '../build/sim/sim.egg-info/SOURCES.txt'
+[2.011s] running build
+[2.011s] running build_py
+[2.011s] running install
+[2.016s] running install_lib
+[2.041s] running install_data
+[2.041s] running install_egg_info
+[2.066s] removing '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/sim/lib/python3.12/site-packages/sim-2.0.0-py3.12.egg-info' (and everything under it)
+[2.066s] Copying ../build/sim/sim.egg-info to /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/sim/lib/python3.12/site-packages/sim-2.0.0-py3.12.egg-info
+[2.067s] running install_scripts
+[2.233s] Installing sim1 script to /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/sim/lib/sim
+[2.233s] writing list of installed files to '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/sim/install.log'
+[2.273s] Invoked command in '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/sim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\u@\h \[\e[32m\]\w \[\e[91m\]$(parse_git_branch)\[\e[00m\]$ PYTHONPATH=/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/sim build --build-base /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/sim/build install --record /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/sim/install.log --single-version-externally-managed install_data
