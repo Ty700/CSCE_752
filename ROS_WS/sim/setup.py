@@ -13,7 +13,6 @@ setup(
         (os.path.join('share', package_name), glob.glob('share/*')),
         (os.path.join('share', package_name), ['package.xml']),
     ],
-    install_requires=['setuptools'],
     zip_safe=True,
     maintainer='jokane',
     maintainer_email='jokane@tamu.edu',
@@ -23,6 +22,7 @@ setup(
     entry_points={
         'console_scripts': [
             'sim1 = sim.sim1:main',
+            'sim2 = sim.sim2:main',
          ],
     },
 )

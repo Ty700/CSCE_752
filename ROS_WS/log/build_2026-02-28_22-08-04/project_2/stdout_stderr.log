@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/project_2/project_2.egg-info/PKG-INFO
+writing dependency_links to ../build/project_2/project_2.egg-info/dependency_links.txt
+writing entry points to ../build/project_2/project_2.egg-info/entry_points.txt
+writing requirements to ../build/project_2/project_2.egg-info/requires.txt
+writing top-level names to ../build/project_2/project_2.egg-info/top_level.txt
+reading manifest file '../build/project_2/project_2.egg-info/SOURCES.txt'
+writing manifest file '../build/project_2/project_2.egg-info/SOURCES.txt'
+running build
+running build_py
+copying project_2/robot_node.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/project_2/build/lib/project_2
+running install
+running install_lib
+copying /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/project_2/build/lib/project_2/robot_node.py -> /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/project_2/lib/python3.12/site-packages/project_2
+byte-compiling /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/project_2/lib/python3.12/site-packages/project_2/robot_node.py to robot_node.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/project_2/lib/python3.12/site-packages/project_2-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../build/project_2/project_2.egg-info to /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/project_2/lib/python3.12/site-packages/project_2-0.0.0-py3.12.egg-info
+running install_scripts
+Installing robot_node script to /home/tyler/Coding_Workspace/CSCE_752/ROS_WS/install/project_2/lib/project_2
+writing list of installed files to '/home/tyler/Coding_Workspace/CSCE_752/ROS_WS/build/project_2/install.log'

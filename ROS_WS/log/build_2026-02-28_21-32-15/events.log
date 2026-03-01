@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.000372] (-) JobUnselected: {'identifier': 'circle'}
+[0.000423] (-) JobUnselected: {'identifier': 'sim'}
+[0.000446] (-) EventReactorShutdown: {}
