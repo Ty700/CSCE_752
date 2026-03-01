@@ -7,6 +7,10 @@ Panels:
         - /Global Options1
         - /Status1
         - /RobotModel1
+        - /PointStamped1
+        - /Pose1
+        - /MarkerArray1
+        - /PointCloud1
       Splitter Ratio: 0.5
     Tree Height: 1094
   - Class: rviz_common/Selection
